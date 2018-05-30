@@ -1,2 +1,2 @@
 # CUCII-StatsEdu
-Fundamentals of Statistics with R
+## (Fundamentals of Statistics with R)
